@@ -1,7 +1,7 @@
 This small module waits for an array/object of functions with a callback variable to be done and returns the results when all are done.
 
 Example functionality:
-```
+```javascript
 var wait = require("async-func");
 
 //Set a random number generator for the async functions
@@ -91,7 +91,7 @@ wait(calls3, function(data) {
 });
 ```
 The resulting callback would log something like this:
-```
+```javascript
 [
 	{
 		"data3": "datahere_data3",

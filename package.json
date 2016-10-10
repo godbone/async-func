@@ -1,6 +1,6 @@
 {
 	"name": "async-func",
-	"version": "1.2.5",
+	"version": "1.2.6",
 	"description": "Wait for an array/obj of async functions and return values when done.",
 	"keywords": ["async", "function", "array", "object", "func", "arr", "obj"],
 	"main": "async-func.js",
